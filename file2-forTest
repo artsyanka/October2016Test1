@@ -28,4 +28,11 @@ do
 git pull 
 - and those files will be added to your directory
 
+IF sometimes you do commit without message:
+git commit
+then you get stuck in terminal
+then need to do:
+esc
+:wq
+
 
